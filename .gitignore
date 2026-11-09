@@ -1,0 +1,14 @@
+.DS_Store
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.bbl
+*.blg
+Lean/.lake/
+old/
+sage_files/
+genzn.*
+resume.txt
